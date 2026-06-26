@@ -1,209 +1,361 @@
 <h1 align="center">Hi 👋, I'm Indhu S</h1>
-<h3 align="center">AI & Data Science Undergraduate | Full-Stack Developer | Machine Learning & Data Analytics Enthusiast</h3>
+
+<h3 align="center">
+AI & Data Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-Building intelligent applications using AI, Data Analytics, and Modern Web Technologies.
+Building intelligent applications using Artificial Intelligence, Full-Stack Development, Data Analytics, and Cloud Technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=indhu-s-git-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Applications;Open+to+Software+Development+Roles" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://komarev.com/ghpvc/?username=indhu-s-git-hub&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/CGPA-8.54-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Internships-2-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=flat-square"/>
+</p>
+
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=indhu-s-git-hub&theme=algolia&margin-w=15&margin-h=15"/>
-</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Passionate AI & Data Science undergraduate with practical experience in **Full-Stack Development, Machine Learning, Data Analytics, and UI/UX Design**.
+🚀 AI & Data Science undergraduate passionate about building **AI-powered applications**, **Full-Stack web platforms**, and **data-driven software solutions**.
 
-💡 I enjoy solving real-world problems by developing intelligent applications, scalable web platforms, and data-driven solutions.
+💡 I enjoy transforming real-world challenges into intelligent software using Machine Learning, Data Analytics, and Modern Web Technologies.
 
-🌱 Currently expanding my knowledge in **Apache Spark, FastAPI, Cloud Computing, and Advanced Machine Learning**.
+🌱 **Currently Learning**
 
-🎯 Seeking opportunities in **Software Development, AI/ML, Data Science, and Full-Stack Development** where I can contribute, learn, and grow.
+- Apache Spark
+- FastAPI
+- Cloud Computing
+- Advanced Machine Learning
+- AI System Design
+
+🎯 **Career Interests**
+
+- Software Development Engineer (SDE)
+- Full-Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+
+---
+
+# 🚀 Quick Overview
+
+| 🎓 Education | 💼 Internships | 🚀 Projects | 📄 Research |
+|--------------|---------------|------------|------------|
+| B.Tech AI & DS | 2 | 10+ | Paper Presenter |
+
+| 💻 Languages | 🌐 Deployment | 🏆 Achievements | 📈 CGPA |
+|--------------|--------------|----------------|---------|
+| Python • Java • JavaScript | Render | Runner-up & Paper Presentation | 8.54 |
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Technology – Artificial Intelligence & Data Science**
+### Bachelor of Technology – Artificial Intelligence & Data Science
 
 🏫 Rajalakshmi Institute of Technology, Chennai
 
 📅 2023 – 2027
 
-🎓 CGPA: **8.54 / 10**
+🎓 **CGPA:** 8.54 / 10
 
 ---
 
 # 💼 Internship Experience
 
-## Full-Stack Development Intern
-**Energica ASPL | Nov 2025 – Jan 2026**
+## 💻 Full-Stack Development Intern
 
-- Developed Full-Stack web applications using React.js, Node.js, Sequelize & MySQL
-- Built Contract Governance, Budget Funding, KYC Automation, and Tariff Impact Analysis modules
-- Implemented Python-based information extraction pipelines
-- Designed dashboards, KPIs, and analytics reports
+**Energica ASPL**  
+📅 Nov 2025 – Jan 2026
+
+✔ Developed enterprise-level Full-Stack applications using **React.js, Node.js, Sequelize & MySQL**
+
+✔ Built modules including:
+
+- Contract Governance
+- Budget Funding
+- KYC Automation
+- Tariff Impact Analysis
+
+✔ Developed Python-based Information Extraction pipelines
+
+✔ Designed dashboards and KPI reports
 
 ---
 
-## Data Analytics & Testing Intern
-**Energica ASPL | June 2025 – July 2025**
+## 📊 Data Analytics & Testing Intern
 
-- Created realistic datasets using Mockaroo
-- Developed Power BI dashboards
-- Worked on Testing, Data Management, and Analytics Visualization
-- Improved reporting and functional testing workflows
+**Energica ASPL**  
+📅 June 2025 – July 2025
 
----
+✔ Created realistic datasets using Mockaroo
 
+✔ Developed Power BI dashboards
+
+✔ Worked on Data Validation & Functional Testing
+
+✔ Improved reporting and analytics workflows
 # 🚀 Featured Projects
+
 ## 🤖 ResearchGap AI Analyzer
 
-### AI-Powered Research Paper Analysis Platform
+> **AI-powered platform for analyzing research papers, detecting research gaps, generating summaries, and recommending future research directions.**
 
-**💻 Tech Stack**
+### 💻 Tech Stack
 
-Python • Flask • HTML5 • CSS3 • JavaScript • SQLite • Scikit-learn • spaCy • NLTK • PDFPlumber • Gunicorn • Render
+`Python` • `Flask` • `HTML5` • `CSS3` • `JavaScript` • `SQLite` • `Scikit-Learn` • `spaCy` • `NLTK` • `PDFPlumber` • `Gunicorn` • `Render`
 
-### ✨ Key Features
+### ✨ Highlights
 
-* 📄 Upload and Analyze Research Papers (PDF)
-* 🧠 AI-Generated Research Paper Summaries
-* 🔍 Intelligent Research Gap Detection
-* 📊 Similarity Analysis Between Multiple Papers
-* 💡 AI-Based Research Topic Recommendations
-* 🚀 Elevator Pitch Generation for Research Ideas
-* 📈 Topic Modeling & Keyword Extraction
-* ☁️ Cloud Deployment on Render
+- 📄 Research Paper Upload & Analysis
+- 🧠 AI-Generated Summaries
+- 🔍 Research Gap Detection
+- 📊 Similarity Analysis
+- 💡 Topic Recommendation
+- 🚀 Elevator Pitch Generator
+- 📈 Topic Modeling & Keyword Extraction
+- ☁️ Cloud Deployment on Render
 
-### 🌐 Live Demo
+🔗 **Live Demo:** https://research-gap-analyser.onrender.com
 
-🔗 https://research-gap-analyser.onrender.com
-
-### 📂 GitHub Repository
-
-🔗 https://github.com/Indhu-S-git-hub/Research-Gap-Analyser
+🔗 **Repository:** https://github.com/Indhu-S-git-hub/Research-Gap-Analyser
 
 ---
-
 
 ## 🌍 Tourism Hub
-### Smart Tourism & Eco-Travel Platform
 
-**Tech Stack**
+> **Smart Tourism & Eco-Travel Platform for sustainable travel planning.**
 
-React.js • FastAPI • Express.js • Python • MySQL • JavaScript
+### 💻 Tech Stack
 
-### Features
+`React.js` • `FastAPI` • `Express.js` • `Python` • `MySQL` • `JavaScript`
 
-- 🏨 Stay Booking
-- 🌱 Eco Travel Planning
-- 🌦 Weather Forecast
+### ✨ Highlights
+
+- 🏨 Hotel Booking
+- 🌱 Eco-Friendly Travel Planning
+- 🌦 Live Weather Forecast
 - 🗺 Interactive Maps
-- 🤖 AI-Powered Recommendations
-
+- 🤖 AI Recommendation System
 
 ---
 
-## 🌦 Spark-Based Weather Forecasting
+## 🌦 Spark Weather Forecasting
 
-**Tech Stack**
+> **Big Data Weather Prediction using Apache Spark & Machine Learning**
 
-Apache Spark • Python • Flask • Machine Learning
+### 💻 Tech Stack
 
-Features
+`Apache Spark` • `Python` • `Flask` • `Machine Learning`
 
-- Big Data Weather Processing
-- Weather Prediction using ML
-- Flask REST API
+### ✨ Highlights
+
+- Big Data Processing
+- Weather Prediction
+- REST API
 - Interactive Dashboard
 
 ---
 
 ## 📈 Trump Tariff Analyzer
 
-**Tech Stack**
+> **Enterprise Dashboard for Tariff Impact Analysis**
 
-React.js • Express.js • Sequelize ORM • MySQL
+### 💻 Tech Stack
 
-Features
+`React.js` • `Express.js` • `Sequelize` • `MySQL`
+
+### ✨ Highlights
 
 - Tariff Analysis
 - Dashboard
-- Charts
-- Interactive Reports
+- Interactive Charts
+- Reports
 
 ---
 
 ## 🛡 UK Company KYC Analyzer
 
-**Tech Stack**
+### 💻 Tech Stack
 
-Python • UI/UX
+`Python` • `UI/UX`
 
-Features
+### ✨ Highlights
 
 - Company Verification
-- Risk Score Generation
 - Compliance Checking
+- Risk Score Generation
 
 ---
 
-## 🚛 D-GAIN TMS (Hackathon Project)
+## 🚛 D-GAIN TMS
 
-Features
+> **Hackathon Project for Sustainable Logistics**
 
-- Return Trip Sharing
+### ✨ Highlights
+
 - Freight Pooling
-- Solar-powered Delivery
-- Cost Reduction
+- Return Trip Sharing
 - Sustainable Logistics
+- Solar-powered Delivery
+- Cost Optimization
 
 ---
 
-## 🛠 Languages & Tools
+# 🛠 Technical Skills
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
+
 </p>
+
+</td>
+
+<td width="50%">
 
 ### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
+
 </p>
 
-### 🗄️ Database & ORM
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://sequelize.org/img/logo.svg" width="48"/>
+</td>
+
+<td>
+
+### 🗄 Database & ORM
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://sequelize.org/img/logo.svg" width="45"/>
+
 </p>
 
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+
 </p>
+
+</td>
+
+<td>
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ☁ Cloud & Big Data
+
+<p align="center">
+
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="45"/>
+
+
+</p>
+
+</td>
+
+<td>
+
+### 🎨 UI / UX & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 # 📜 Certifications
 
 🏅 Tata Forage – GenAI Powered Data Analytics Job Simulation
 
-🏅 IBM – Getting Started with AI
+🏅 IBM – Getting Started with Artificial Intelligence
 
-🏅 Simplilearn – Introduction to AI & ML
+🏅 Simplilearn – Introduction to Artificial Intelligence & Machine Learning
 
 🏅 Simplilearn – Data Analytics
 
@@ -215,36 +367,45 @@ Features
 
 # 🏆 Achievements
 
-🥉 Third Place – Research Paper Presentation
+🥉 Third Prize – Research Paper Presentation
 
 🥈 Runner-up – Hexaware Coding Challenge
 
 🎨 IEEE UI/UX Design Competition Participant
 
----
+🌐 Successfully Deployed  AI & Full-Stack Applications
 
+💼 Completed Two Industry Internships
+
+---
 # 🌱 Currently Learning
 
-- Apache Spark
-- FastAPI
-- Cloud Computing
-- Advanced Machine Learning
-- AI System Design
+- 🚀 Apache Spark for Big Data Processing
+- ⚡ FastAPI for High-Performance APIs
+- ☁️ Cloud Computing & Deployment
+- 🤖 Advanced Machine Learning
+- 🧠 AI System Design
+- 📈 Scalable Full-Stack Architecture
 
 ---
 
-# 🤝 Looking to Collaborate On
+# 💼 Open to Opportunities
 
-- AI & Machine Learning Projects
-- Open Source Projects
-- Full-Stack Development
-- Data Analytics Projects
+I am actively seeking opportunities in:
+
+- 💻 Software Development Engineer (SDE)
+- 🌐 Full-Stack Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science & Data Analytics
+
+I enjoy building innovative software solutions that solve real-world problems through AI, Data Analytics, and Modern Web Technologies.
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:indhu.s.2023.aids@ritchennai.edu.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -255,32 +416,36 @@ Features
 </a>
 
 <a href="https://github.com/Indhu-S-git-hub">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/QEUXJQdzj9/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=indhu-s-git-hub&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhu-s-git-hub&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indhu-s-git-hub&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indhu-s-git-hub&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhu-s-git-hub&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhu-s-git-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -292,8 +457,6 @@ Features
 
 # 🐍 Contribution Snake
 
-> Enable this using GitHub Actions.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -302,14 +465,20 @@ Features
 
 ---
 
+
+
 # 💡 Quote
 
-> **"Transforming innovative ideas into intelligent, real-world software solutions through AI, Data, and Technology."**
+> **"Transforming innovative ideas into intelligent, real-world software solutions through Artificial Intelligence, Data Analytics, and Modern Web Technologies."**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thank you for visiting my GitHub Profile! ⭐</h3>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories!
+
+If you find my projects interesting, consider giving them a ⭐.<br><br>
+
+I'm always excited to learn, collaborate, and build impactful software solutions.
+
 </p>
