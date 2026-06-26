@@ -346,23 +346,6 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 </tr>
 
 </table>
-
----
-
----
-
-# 🏆 Achievements
-
-🥉 Third Prize – Research Paper Presentation
-
-🥈 Runner-up – Hexaware Coding Challenge
-
-🎨 IEEE UI/UX Design Competition Participant
-
-🌐 Successfully Deployed  AI & Full-Stack Applications
-
-💼 Completed Two Industry Internships
-
 ---
 # 🌱 Currently Learning
 
