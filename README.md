@@ -64,6 +64,35 @@ Building intelligent applications using AI, Data Analytics, and Modern Web Techn
 ---
 
 # 🚀 Featured Projects
+## 🤖 ResearchGap AI Analyzer
+
+### AI-Powered Research Paper Analysis Platform
+
+**💻 Tech Stack**
+
+Python • Flask • HTML5 • CSS3 • JavaScript • SQLite • Scikit-learn • spaCy • NLTK • PDFPlumber • Gunicorn • Render
+
+### ✨ Key Features
+
+* 📄 Upload and Analyze Research Papers (PDF)
+* 🧠 AI-Generated Research Paper Summaries
+* 🔍 Intelligent Research Gap Detection
+* 📊 Similarity Analysis Between Multiple Papers
+* 💡 AI-Based Research Topic Recommendations
+* 🚀 Elevator Pitch Generation for Research Ideas
+* 📈 Topic Modeling & Keyword Extraction
+* ☁️ Cloud Deployment on Render
+
+### 🌐 Live Demo
+
+🔗 https://research-gap-analyser.onrender.com
+
+### 📂 GitHub Repository
+
+🔗 https://github.com/Indhu-S-git-hub/Research-Gap-Analyser
+
+---
+
 
 ## 🌍 Tourism Hub
 ### Smart Tourism & Eco-Travel Platform
@@ -80,8 +109,6 @@ React.js • FastAPI • Express.js • Python • MySQL • JavaScript
 - 🗺 Interactive Maps
 - 🤖 AI-Powered Recommendations
 
-Repository:
-https://github.com/Indhu-S-git-hub
 
 ---
 
