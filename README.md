@@ -143,62 +143,75 @@ Features
 
 # 🛠 Technical Skills
 
-## Programming Languages
+## 🛠 Languages & Tools
 
-- Python
-- Java
-- JavaScript
-- SQL
+<p align="center">
 
-## Frontend
+<a href="https://www.python.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50"/>
+</a>
 
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
+<a href="https://www.java.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+</a>
 
-## Backend
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50"/>
+</a>
 
-- Node.js
-- Express.js
-- FastAPI
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+</a>
 
-## Database
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50"/>
+</a>
 
-- MySQL
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/>
+</a>
 
-## Artificial Intelligence
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
+</a>
 
-- Machine Learning
-- Scikit-Learn
-- TensorFlow
-- NLP
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50"/>
+</a>
 
-## Big Data
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+</a>
 
-- Apache Spark
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+</a>
 
-## Data Analytics
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/>
+</a>
 
-- Pandas
-- NumPy
-- Power BI
-- Matplotlib
-- Seaborn
-- Microsoft Excel
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
+</a>
 
-## UI / UX
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50"/>
+</a>
 
-- Figma
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
+</a>
 
-## Tools
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
+</a>
 
-- Git
-- GitHub
-- VS Code
-- Postman
+</p>
 
----
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,powerbi,seaborn,matplotlib,apachespark" />
+</p>
 
 # 📜 Certifications
 
