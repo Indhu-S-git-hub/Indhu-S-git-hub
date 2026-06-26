@@ -1,39 +1,318 @@
 <h1 align="center">Hi 👋, I'm Indhu S</h1>
-<h3 align="center">AI & Data Science Engineer | Full-Stack Developer | Building intelligent solutions with AI, Data Analytics, and Modern Web Technologies</h3>
+<h3 align="center">AI & Data Science Undergraduate | Full-Stack Developer | Machine Learning & Data Analytics Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhu-s-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="indhu-s-git-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indhu-s-git-hub" alt="indhu-s-git-hub" /></a> </p>
-
-- 🔭 I’m currently working on [Tourism Hub – Smart Tourism & Eco-Travel Platform](https://github.com/Indhu-S-git-hub)
-
-- 🌱 I’m currently learning **Apache Spark, FastAPI, Advanced Machine Learning and Cloud Technologies**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects, Full-Stack Web Applications, and Open-Source Contributions**
-
-- 🤝 I’m looking for help with **Cloud Deployment, Apache Spark, and Scalable AI Systems**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Indhu-S-git-hub](https://github.com/Indhu-S-git-hub)
-
-- 💬 Ask me about **Python, React.js, Node.js, Machine Learning, Data Analytics, Power BI, MySQL, and Full-Stack Development**
-
-- 📫 How to reach me **indhuofficial78@gmail.com**
-
-- 📄 Know about my experiences [Full-Stack Development Intern @ Energica ASPL | Data Analytics Intern @ Energica ASPL](Full-Stack Development Intern @ Energica ASPL | Data Analytics Intern @ Energica ASPL)
-
-- ⚡ Fun fact **I’m passionate about transforming innovative ideas into intelligent, real-world solutions through AI and software development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/indhu-s-bb5553293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indhu-s-bb5553293" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/qeuxjqdzj9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/qeuxjqdzj9/" height="30" width="40" /></a>
+<p align="center">
+Building intelligent applications using AI, Data Analytics, and Modern Web Technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indhu-s-git-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indhu-s-git-hub&show_icons=true&locale=en&layout=compact" alt="indhu-s-git-hub" /></p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=indhu-s-git-hub&theme=algolia&margin-w=15&margin-h=15"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indhu-s-git-hub&show_icons=true&locale=en" alt="indhu-s-git-hub" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indhu-s-git-hub&" alt="indhu-s-git-hub" /></p>
+# 👨‍💻 About Me
+
+🚀 Passionate AI & Data Science undergraduate with practical experience in **Full-Stack Development, Machine Learning, Data Analytics, and UI/UX Design**.
+
+💡 I enjoy solving real-world problems by developing intelligent applications, scalable web platforms, and data-driven solutions.
+
+🌱 Currently expanding my knowledge in **Apache Spark, FastAPI, Cloud Computing, and Advanced Machine Learning**.
+
+🎯 Seeking opportunities in **Software Development, AI/ML, Data Science, and Full-Stack Development** where I can contribute, learn, and grow.
+
+---
+
+# 🎓 Education
+
+**Bachelor of Technology – Artificial Intelligence & Data Science**
+
+🏫 Rajalakshmi Institute of Technology, Chennai
+
+📅 2023 – 2027
+
+🎓 CGPA: **8.54 / 10**
+
+---
+
+# 💼 Internship Experience
+
+## Full-Stack Development Intern
+**Energica ASPL | Nov 2025 – Jan 2026**
+
+- Developed Full-Stack web applications using React.js, Node.js, Sequelize & MySQL
+- Built Contract Governance, Budget Funding, KYC Automation, and Tariff Impact Analysis modules
+- Implemented Python-based information extraction pipelines
+- Designed dashboards, KPIs, and analytics reports
+
+---
+
+## Data Analytics & Testing Intern
+**Energica ASPL | June 2025 – July 2025**
+
+- Created realistic datasets using Mockaroo
+- Developed Power BI dashboards
+- Worked on Testing, Data Management, and Analytics Visualization
+- Improved reporting and functional testing workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Tourism Hub
+### Smart Tourism & Eco-Travel Platform
+
+**Tech Stack**
+
+React.js • FastAPI • Express.js • Python • MySQL • JavaScript
+
+### Features
+
+- 🏨 Stay Booking
+- 🌱 Eco Travel Planning
+- 🌦 Weather Forecast
+- 🗺 Interactive Maps
+- 🤖 AI-Powered Recommendations
+
+Repository:
+https://github.com/Indhu-S-git-hub
+
+---
+
+## 🌦 Spark-Based Weather Forecasting
+
+**Tech Stack**
+
+Apache Spark • Python • Flask • Machine Learning
+
+Features
+
+- Big Data Weather Processing
+- Weather Prediction using ML
+- Flask REST API
+- Interactive Dashboard
+
+---
+
+## 📈 Trump Tariff Analyzer
+
+**Tech Stack**
+
+React.js • Express.js • Sequelize ORM • MySQL
+
+Features
+
+- Tariff Analysis
+- Dashboard
+- Charts
+- Interactive Reports
+
+---
+
+## 🛡 UK Company KYC Analyzer
+
+**Tech Stack**
+
+Python • UI/UX
+
+Features
+
+- Company Verification
+- Risk Score Generation
+- Compliance Checking
+
+---
+
+## 🚛 D-GAIN TMS (Hackathon Project)
+
+Features
+
+- Return Trip Sharing
+- Freight Pooling
+- Solar-powered Delivery
+- Cost Reduction
+- Sustainable Logistics
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+## Frontend
+
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+## Backend
+
+- Node.js
+- Express.js
+- FastAPI
+
+## Database
+
+- MySQL
+
+## Artificial Intelligence
+
+- Machine Learning
+- Scikit-Learn
+- TensorFlow
+- NLP
+
+## Big Data
+
+- Apache Spark
+
+## Data Analytics
+
+- Pandas
+- NumPy
+- Power BI
+- Matplotlib
+- Seaborn
+- Microsoft Excel
+
+## UI / UX
+
+- Figma
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 📜 Certifications
+
+🏅 Tata Forage – GenAI Powered Data Analytics Job Simulation
+
+🏅 IBM – Getting Started with AI
+
+🏅 Simplilearn – Introduction to AI & ML
+
+🏅 Simplilearn – Data Analytics
+
+🏅 Simplilearn – Data Science
+
+🏅 Coursera – Microsoft Excel
+
+---
+
+# 🏆 Achievements
+
+🥉 Third Place – Research Paper Presentation
+
+🥈 Runner-up – Hexaware Coding Challenge
+
+🎨 IEEE UI/UX Design Competition Participant
+
+---
+
+# 🌱 Currently Learning
+
+- Apache Spark
+- FastAPI
+- Cloud Computing
+- Advanced Machine Learning
+- AI System Design
+
+---
+
+# 🤝 Looking to Collaborate On
+
+- AI & Machine Learning Projects
+- Open Source Projects
+- Full-Stack Development
+- Data Analytics Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:indhu.s.2023.aids@ritchennai.edu.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/indhu-s-bb5553293">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Indhu-S-git-hub">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/QEUXJQdzj9/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=indhu-s-git-hub&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=indhu-s-git-hub&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhu-s-git-hub&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indhu-s-git-hub&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this using GitHub Actions.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Transforming innovative ideas into intelligent, real-world software solutions through AI, Data, and Technology."**
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories!
+</p>
