@@ -11,16 +11,16 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Engineer;Building+AI-Powered+Applications;Open+to+Software+Development+Roles" />
 </p>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=indhu-s-git-hub&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/badge/CGPA-8.54-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Internships-2-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=flat-square"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=indhu-s-git-hub&theme=algolia&margin-w=15&margin-h=15"/>
+
+
+<img src="https://img.shields.io/badge/CGPA-8.54-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Experience-2%20Internships-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Full--Time-success?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -51,9 +51,9 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 
 # 🚀 Quick Overview
 
-| 🎓 Education | 💼 Internships | 🚀 Projects | 📄 Research |
-|--------------|---------------|------------|------------|
-| B.Tech AI & DS | 2 | 10+ | Paper Presenter |
+| 🎓 Education | 💼 Internships  | 📄 Research |
+|--------------|------------|------------|
+| B.Tech AI & DS | 2 | Paper Presenter |
 
 | 💻 Languages | 🌐 Deployment | 🏆 Achievements | 📈 CGPA |
 |--------------|--------------|----------------|---------|
