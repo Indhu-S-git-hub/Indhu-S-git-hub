@@ -31,6 +31,8 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 
 💡 I enjoy transforming real-world challenges into intelligent software using Machine Learning, Data Analytics, and Modern Web Technologies.
 
+---
+
 🌱 **Currently Learning**
 
 - Apache Spark
@@ -346,17 +348,7 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 </tr>
 
 </table>
----
-# 🌱 Currently Learning
 
-- 🚀 Apache Spark for Big Data Processing
-- ⚡ FastAPI for High-Performance APIs
-- ☁️ Cloud Computing & Deployment
-- 🤖 Advanced Machine Learning
-- 🧠 AI System Design
-- 📈 Scalable Full-Stack Architecture
-
----
 
 # 💼 Open to Opportunities
 
