@@ -349,20 +349,6 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 
 ---
 
-# 📜 Certifications
-
-🏅 Tata Forage – GenAI Powered Data Analytics Job Simulation
-
-🏅 IBM – Getting Started with Artificial Intelligence
-
-🏅 Simplilearn – Introduction to Artificial Intelligence & Machine Learning
-
-🏅 Simplilearn – Data Analytics
-
-🏅 Simplilearn – Data Science
-
-🏅 Coursera – Microsoft Excel
-
 ---
 
 # 🏆 Achievements
