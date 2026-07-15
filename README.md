@@ -170,6 +170,7 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 - Interactive Dashboard
 
 🔗 **Repository:** https://github.com/Indhu-S-git-hub/weather-forecast-project
+
 ---
 
 ## 📈 Trump Tariff Analyzer
@@ -186,7 +187,9 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 - Dashboard
 - Interactive Charts
 - Reports
+
 🔗 **Repository:** https://github.com/Indhu-S-git-hub/Tariff-Impact-Deployment
+
 ---
 
 ## 🛡 UK Company KYC Analyzer
@@ -202,6 +205,7 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 - Risk Score Generation
 
 🔗 **link:** https://book-scroll-58150650.figma.site
+
 ---
 
 ## 🚛 D-GAIN TMS
