@@ -382,24 +382,6 @@ I enjoy building innovative software solutions that solve real-world problems th
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=indhu-s-git-hub&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=indhu-s-git-hub&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhu-s-git-hub&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
