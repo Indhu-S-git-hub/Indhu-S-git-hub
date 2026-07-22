@@ -152,6 +152,8 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 - 🗺 Interactive Maps
 - 🤖 AI Recommendation System
 
+🔗 **Repository:** https://github.com/Indhu-S-git-hub/Tourism-Hub
+
 ---
 
 ## 🌦 Spark Weather Forecasting
@@ -205,20 +207,6 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 - Risk Score Generation
 
 🔗 **link:** https://book-scroll-58150650.figma.site
-
----
-
-## 🚛 D-GAIN TMS
-
-> **Hackathon Project for Sustainable Logistics**
-
-### ✨ Highlights
-
-- Freight Pooling
-- Return Trip Sharing
-- Sustainable Logistics
-- Solar-powered Delivery
-- Cost Optimization
 
 ---
 
@@ -422,15 +410,6 @@ I enjoy building innovative software solutions that solve real-world problems th
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 
 
