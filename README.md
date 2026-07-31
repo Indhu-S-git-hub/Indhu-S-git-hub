@@ -59,7 +59,7 @@ Building intelligent applications using Artificial Intelligence, Full-Stack Deve
 
 | 💻 Languages | 🌐 Deployment | 🏆 Achievements | 📈 CGPA |
 |--------------|--------------|----------------|---------|
-| Python • Java • JavaScript | Render | Runner-up & Paper Presentation | 8.54 |
+| Python • Java • JavaScript | Render | Runner-up & Paper Presentation | 8.58 |
 
 ---
 
